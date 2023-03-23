@@ -28,4 +28,7 @@ class Calculator:
         return result
 
 
-    operation.divide()
+
+if __name__ == '__main__':
+    operation = Calculator()
+    operation.add()
