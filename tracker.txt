@@ -1,7 +1,7 @@
-fruits
+snake
 apple
-
+papaya
 tiger
-lion
+
 fox
 
